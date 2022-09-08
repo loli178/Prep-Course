@@ -155,7 +155,7 @@ function elevar(num, exponent) {
   // Tu código:
   return (Math.pow(num,exponent));
 }
-
+//
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
@@ -296,3 +296,4 @@ module.exports = {
   deEuroAdolar,
   esVocal,
 };
+1+1
